@@ -1,4 +1,4 @@
-My minecraft mod-pack works well. but this repository will help you with trouble shooting.
+# My minecraft mod-pack works well. but this repository will help you with trouble shooting.
 
 1. Driver issue(error 65542 most often).
 the most often driver issue is error 65542.
