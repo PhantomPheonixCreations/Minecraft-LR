@@ -22,13 +22,15 @@ If there are other issues with drivers, this repository might not help.
 
 ## Mods and compatibility
 
-OptiFine: Sodium is designed to replace OptiFine, and they are not compatible with each other. If you use OptiFine alongside Sodium, it can lead to crashes or graphical glitches.
+OptiFine: Sodium is designed to replace OptiFine, and they are not compatible with each other. If you use OptiFine alongside Sodium, it can lead to crashes, also optifine is on forge, and sodium is on fabric.
 
-Shaders: Many shader packs that are designed for use with OptiFine might not work with Sodium, as Sodium has its own optimized rendering system. Some shaders might require specific configurations or mods like Iris Shaders (which are made for Sodium).
+Shaders: Many shader packs that are designed for use with OptiFine might not work with IRIS, as it uses sodium. Some shaders might require specific configurations or mods like Iris Shaders (which are made for Sodium).
 
 BetterFps: BetterFps is another mod that aims to improve performance, but it may conflict with Sodium. Both mods attempt to optimize game performance in similar ways, leading to potential issues when used together.
 
 Other Performance Mods: Mods such as FastRender or FastMath might conflict with Sodium as they modify similar rendering or performance-related aspects of the game.
+
+Last updated: Jan 1 2025
 
 Mods that modify rendering: Any mod that changes how Minecraft renders chunks, lighting, or entities (like chunk loaders or lighting mods) may cause issues when paired with Sodium due to conflicts in how rendering is handled.
 
