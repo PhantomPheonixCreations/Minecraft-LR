@@ -7,13 +7,13 @@ This error can ussually occur when you are using integrated graphics or have bro
 
 to fix this error there are 3 methods:
 
-a) Re-installing the minecraft OpenGL file(medium/hard)
+a) Re-installing the minecraft OpenGL file
 
-b) Downloading Vulkan, OpenGL and OpenCL support on Microsoft store(easy)
+b) Downloading Vulkan, OpenGL and OpenCL support on Microsoft store
 
-c) getting a gpu for your computer or replacing/fixing the existing one(medium/hard)
+c) getting a gpu for your computer or replacing/fixing the existing one
 
-d, additional) re-installing your gpu driver(medium)
+d, additional) re-installing your gpu driver
 
 I recommend the B method, However if the issues happens again watch a YouTube video explaining the A method
 since it would be to long to read on github.
